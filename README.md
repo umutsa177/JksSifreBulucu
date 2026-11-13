@@ -1,4 +1,4 @@
-# JKS Bulucu
+# JKS Şifre Bulucu
 
 Bu Java programı, bir JKS anahtar deposunun **depo şifresini** verdiğiniz aday şifre listesinde arar. Listedeki şifreleri sırayla dener ve ilk eşleşmeyi ekrana yazar. Bu yöntem yalnızca elinizdeki aday listesinde bulunan şifreleri bulabilir; şifreyi kendiliğinden üretmez.
 
