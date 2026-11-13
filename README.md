@@ -23,15 +23,6 @@ Her iki komut da sürüm bilgisi göstermelidir. Komut tanınmıyorsa JDK kurup 
 
 ## GitHub'dan indirme
 
-### ZIP ile
-
-1. Projenin GitHub sayfasını açın.
-2. **Code** düğmesine, ardından **Download ZIP** seçeneğine tıklayın.
-3. İnen ZIP dosyasını bir klasöre çıkarın.
-4. Komut satırında `JksSifreBulucu.java` dosyasının bulunduğu klasöre geçin.
-
-### Git ile
-
 Git kuruluysa, GitHub sayfasındaki depo adresini kopyalayıp aşağıdaki komutta `<depo-adresi>` yerine koyun:
 
 ```text
