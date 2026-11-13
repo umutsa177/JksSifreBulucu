@@ -10,7 +10,7 @@ Bu Java programı, bir JKS anahtar deposunun **depo şifresini** verdiğiniz ada
 - Java geliştirme kiti (JDK). `javac` komutu JDK ile gelir; yalnızca Java çalışma ortamı (JRE) yeterli değildir.
 - Denenecek JKS dosyası
 - Her satırında bir şifre adayı bulunan metin dosyası
-- Projeyi GitHub'dan klonlayacaksanız Git; ZIP ile indirecekseniz Git gerekmez
+- Projeyi GitHub'dan klonlayacaksanız Git;
 
 Java'nın kurulu olduğunu doğrulamak için Komut İstemi veya PowerShell'de şu komutları çalıştırın:
 
